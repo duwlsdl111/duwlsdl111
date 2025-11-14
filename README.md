@@ -1,5 +1,5 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&height=170&color=gradient&text=Welcome%20to%20YEOJIN's%20Git%20Hub&reversal=false&fontSize=55&fontAlignY=29&fontColor=ffffff&animation=fadeIn&strokeWidth=1)
+![header](https://capsule-render.vercel.app/api?type=waving&height=130&color=gradient&reversal=false&fontAlignY=29&animation=fadeIn)
 
 </div>
