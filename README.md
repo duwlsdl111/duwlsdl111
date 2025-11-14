@@ -1,4 +1,4 @@
-## Hi there 👋
+[## Hi there 👋
 
 <!--
 **duwlsdl111/duwlsdl111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+](https://capsule-render.vercel.app/api?type=waving&height=170&color=gradient&text=Welcome%20to%20YEOJIN's%20Git%20Hub&reversal=false&fontSize=55&fontAlignY=29&fontColor=ffffff&animation=fadeIn&strokeWidth=1)
