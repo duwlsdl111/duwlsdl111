@@ -13,3 +13,11 @@
 - **취미:** 독서, 합기도, 영화감상
 
 ---
+
+## 💻 Skills & Tools 
+
+### Frontend
+<img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="html5"> 
+
+### Design
+---
